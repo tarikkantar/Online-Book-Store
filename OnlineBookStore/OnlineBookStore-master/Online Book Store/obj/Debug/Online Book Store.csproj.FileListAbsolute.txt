@@ -1,0 +1,53 @@
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.csprojAssemblyReference.cache
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormLogin.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.cache
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online Book Store.csprojResolveAssemblyReference.cache
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormLogin.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.Cache
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online Book Store.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormSignUp.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe.config
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.exe
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.pdb
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormSignUp.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormLogin.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.Properties.Resources.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online Book Store.csproj.GenerateResource.Cache
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormSignUp.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\asus\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.exe
+C:\Users\asus\Documents\online-book-store\Online Book Store\bin\Debug\Online Book Store.pdb
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.BookForm.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MagazineForm.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MusicForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.BookForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MagazineForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MainForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.MusicForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.AdminProfileForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.ShoppingCartFormcs.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.UserProfileForm.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.AdminProfileForm.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.ShoppingCartFormcs.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.UserProfileForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.PanelProduct.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.PanelProduct.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.InvoiceForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.InvoiceForm.resources
+C:\Users\berka\OneDrive\Belgeler\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.ForgotPasswordForm.resources
+C:\Users\HypTRoN.DESKTOP-T7D2AKS\Documents\online-book-store\Online Book Store\obj\Debug\Online_Book_Store.FormForgotPassword.resources
